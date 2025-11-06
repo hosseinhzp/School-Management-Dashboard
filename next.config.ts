@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
       { hostname: "images.pexels.com" },
       { hostname: "randomuser.me" },
     ],
+    domains: ["images.pexels.com", "randomuser.me"],
   },
   eslint: {
     ignoreDuringBuilds: true,

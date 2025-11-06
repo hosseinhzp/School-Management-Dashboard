@@ -8,8 +8,7 @@ export const teachersData = [
     teacherId: "1234567890",
     name: "Emma Carter",
     email: "emma.carter@example.co.uk",
-    photo:
-      "https://randomuser.me/api/portraits/women/45.jpg",
+    photo: "/avatars/teacher-1.svg",
     phone: "1234567890",
     subjects: ["Math", "Geometry"],
     classes: ["1B", "2A", "3C"],
@@ -20,8 +19,7 @@ export const teachersData = [
     teacherId: "1234567890",
     name: "Lucas Müller",
     email: "lucas.mueller@example.de",
-    photo:
-      "https://randomuser.me/api/portraits/men/46.jpg",
+    photo: "/avatars/teacher-2.svg",
     phone: "1234567890",
     subjects: ["Physics", "Chemistry"],
     classes: ["5A", "4B", "3C"],
@@ -32,8 +30,7 @@ export const teachersData = [
     teacherId: "1234567890",
     name: "Sofia Rossi",
     email: "sofia.rossi@example.it",
-    photo:
-      "https://randomuser.me/api/portraits/women/47.jpg",
+    photo: "/avatars/teacher-3.svg",
     phone: "1234567890",
     subjects: ["Biology"],
     classes: ["5A", "4B", "3C"],
@@ -44,8 +41,7 @@ export const teachersData = [
     teacherId: "1234567890",
     name: "Liam O'Connor",
     email: "liam.oconnor@example.ie",
-    photo:
-      "https://randomuser.me/api/portraits/men/48.jpg",
+    photo: "/avatars/teacher-4.svg",
     phone: "1234567890",
     subjects: ["History"],
     classes: ["5A", "4B", "3C"],
@@ -56,8 +52,7 @@ export const teachersData = [
     teacherId: "1234567890",
     name: "Ava Williams",
     email: "ava.williams@example.ca",
-    photo:
-      "https://randomuser.me/api/portraits/women/49.jpg",
+    photo: "/avatars/teacher-5.svg",
     phone: "1234567890",
     subjects: ["Music", "History"],
     classes: ["5A", "4B", "3C"],
@@ -68,8 +63,7 @@ export const teachersData = [
     teacherId: "1234567890",
     name: "Noah Smith",
     email: "noah.smith@example.au",
-    photo:
-      "https://randomuser.me/api/portraits/men/50.jpg",
+    photo: "/avatars/teacher-6.svg",
     phone: "1234567890",
     subjects: ["Physics"],
     classes: ["5A", "4B", "3C"],
@@ -80,8 +74,7 @@ export const teachersData = [
     teacherId: "1234567890",
     name: "Isabella García",
     email: "isabella.garcia@example.es",
-    photo:
-      "https://randomuser.me/api/portraits/women/51.jpg",
+    photo: "/avatars/teacher-7.svg",
     phone: "1234567890",
     subjects: ["English", "Spanish"],
     classes: ["5A", "4B", "3C"],
@@ -92,8 +85,7 @@ export const teachersData = [
     teacherId: "1234567890",
     name: "Oliver Johansson",
     email: "oliver.johansson@example.se",
-    photo:
-      "https://randomuser.me/api/portraits/men/52.jpg",
+    photo: "/avatars/teacher-8.svg",
     phone: "1234567890",
     subjects: ["Math", "Geometry"],
     classes: ["5A", "4B", "3C"],
@@ -104,8 +96,7 @@ export const teachersData = [
     teacherId: "1234567890",
     name: "Mia Dubois",
     email: "mia.dubois@example.fr",
-    photo:
-      "https://randomuser.me/api/portraits/women/53.jpg",
+    photo: "/avatars/teacher-9.svg",
     phone: "1234567890",
     subjects: ["Literature", "English"],
     classes: ["5A", "4B", "3C"],
@@ -116,8 +107,7 @@ export const teachersData = [
     teacherId: "1234567890",
     name: "Ethan Tanaka",
     email: "ethan.tanaka@example.jp",
-    photo:
-      "https://randomuser.me/api/portraits/men/54.jpg",
+    photo: "/avatars/teacher-10.svg",
     phone: "1234567890",
     subjects: ["Biology"],
     classes: ["5A", "4B", "3C"],
@@ -131,8 +121,7 @@ export const studentsData = [
     studentId: "1234567890",
     name: "Noah Bennett",
     email: "noah.bennett@example.co.uk",
-    photo:
-      "https://randomuser.me/api/portraits/men/55.jpg",
+    photo: "/avatars/student-1.svg",
     phone: "1234567890",
     grade: 5,
     class: "1B",
@@ -143,8 +132,7 @@ export const studentsData = [
     studentId: "1234567890",
     name: "Olivia Martínez",
     email: "olivia.martinez@example.es",
-    photo:
-      "https://randomuser.me/api/portraits/women/56.jpg",
+    photo: "/avatars/student-2.svg",
     phone: "1234567890",
     grade: 5,
     class: "5A",
@@ -155,8 +143,7 @@ export const studentsData = [
     studentId: "1234567890",
     name: "Liam Fischer",
     email: "liam.fischer@example.de",
-    photo:
-      "https://randomuser.me/api/portraits/men/57.jpg",
+    photo: "/avatars/student-3.svg",
     phone: "1234567890",
     grade: 5,
     class: "5A",
@@ -167,8 +154,7 @@ export const studentsData = [
     studentId: "1234567890",
     name: "Emma Moreau",
     email: "emma.moreau@example.fr",
-    photo:
-      "https://randomuser.me/api/portraits/women/58.jpg",
+    photo: "/avatars/student-4.svg",
     phone: "1234567890",
     grade: 5,
     class: "5A",
@@ -179,8 +165,7 @@ export const studentsData = [
     studentId: "1234567890",
     name: "Sophia Romano",
     email: "sophia.romano@example.it",
-    photo:
-      "https://randomuser.me/api/portraits/women/59.jpg",
+    photo: "/avatars/student-5.svg",
     phone: "1234567890",
     grade: 5,
     class: "5A",
@@ -191,8 +176,7 @@ export const studentsData = [
     studentId: "1234567890",
     name: "Lucas Anderson",
     email: "lucas.anderson@example.ca",
-    photo:
-      "https://randomuser.me/api/portraits/men/60.jpg",
+    photo: "/avatars/student-6.svg",
     phone: "1234567890",
     grade: 5,
     class: "5A",
@@ -203,8 +187,7 @@ export const studentsData = [
     studentId: "1234567890",
     name: "Ava Svensson",
     email: "ava.svensson@example.se",
-    photo:
-      "https://randomuser.me/api/portraits/women/61.jpg",
+    photo: "/avatars/student-7.svg",
     phone: "1234567890",
     grade: 5,
     class: "5A",
@@ -215,8 +198,7 @@ export const studentsData = [
     studentId: "1234567890",
     name: "Mateo Álvarez",
     email: "mateo.alvarez@example.ar",
-    photo:
-      "https://randomuser.me/api/portraits/men/62.jpg",
+    photo: "/avatars/student-8.svg",
     phone: "1234567890",
     grade: 5,
     class: "5A",
@@ -227,8 +209,7 @@ export const studentsData = [
     studentId: "1234567890",
     name: "Isabella Novák",
     email: "isabella.novak@example.cz",
-    photo:
-      "https://randomuser.me/api/portraits/women/63.jpg",
+    photo: "/avatars/student-9.svg",
     phone: "1234567890",
     grade: 5,
     class: "5A",
@@ -239,8 +220,7 @@ export const studentsData = [
     studentId: "1234567890",
     name: "Ethan Kim",
     email: "ethan.kim@example.kr",
-    photo:
-      "https://randomuser.me/api/portraits/men/64.jpg",
+    photo: "/avatars/student-10.svg",
     phone: "1234567890",
     grade: 5,
     class: "5A",
